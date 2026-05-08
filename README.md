@@ -2,10 +2,6 @@
 
 ### Desenvolvedor Python | Automação de processos | Soluções reais em produção
 
-Estudante de Ciência da Computação em transição de carreira, com background em atendimento ao cliente — o que me deu uma visão diferente de tecnologia: **penso sempre no usuário final.**
-
-Atualmente focado em construir soluções que resolvem problemas reais, com projetos já implantados em produção para clientes reais.
-
 ---
 
 ## 🛠️ Stack
@@ -18,16 +14,6 @@ Atualmente focado em construir soluções que resolvem problemas reais, com proj
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
-## 🚀 Projetos em destaque
-# Olá, eu sou Wellington Roveder 👋
-
-### Desenvolvedor Python | Automação de processos | Soluções reais em produção
-
-Estudante de Ciência da Computação em transição de carreira, com background em **10 anos de liderança operacional** — o que me deu uma visão diferente de tecnologia: penso sempre no usuário final e em soluções que funcionam de verdade, não só no localhost.
-
----
 
 ## 🛠️ Stack
 
