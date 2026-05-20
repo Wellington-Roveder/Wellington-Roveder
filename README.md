@@ -46,7 +46,7 @@ Pipeline ETL que monitora preços de jogos via API REST, persiste histórico em 
 
 ---
 
-### 🛒 [Django Produtos API](https://github.com/Wellington-Roveder/django-produtos-api) &nbsp; ![](https://img.shields.io/badge/CONCLUÍDO-555?style=flat-square)
+### 🛒 [Django Produtos API](https://github.com/Wellington-Roveder/django-produtos-api) &nbsp; ![](https://img.shields.io/badge/em desenvolvimento-555?style=flat-square)
 
 API REST CRUD completa com Django REST Framework, testes unitários cobrindo todos os endpoints e boas práticas de segurança com variáveis de ambiente.
 
