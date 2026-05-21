@@ -29,7 +29,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 [FechaBot MVP](https://github.com/Wellington-Roveder/FechaBot-MVP) &nbsp; ![](https://img.shields.io/badge/EM_PRODUÇÃO-00FF7F?style=flat-square)
+### 🤖 [FechaBot MVP](https://github.com/Wellington-Roveder/FechaBot-MVP) &nbsp; ![](https://img.shields.io/badge/EM_PRODUÇÃO-00FF7F?style=flat-square&logoColor=black)
 
 Automação de fechamento diário implantada para cliente real (**Pollo Loko, SJC**).
 Substitui processo manual de **20 minutos** por relatório gerado em **30 segundos**.
@@ -38,19 +38,19 @@ Substitui processo manual de **20 minutos** por relatório gerado em **30 segund
 
 ---
 
-### 📊 [SentinelLog](https://github.com/Wellington-Roveder/SentinelLog-game-price-monitor) &nbsp; ![](https://img.shields.io/badge/CONCLUÍDO-555?style=flat-square)
-
-Pipeline ETL que monitora preços de jogos via API REST, persiste histórico em SQLite e detecta variações automaticamente. Dashboard interativo em Streamlit e alertas via N8N.
-
-`Python` `FastAPI` `SQLite` `N8N` `Streamlit` `ETL`
-
----
-
-### 🛒 [Django Produtos API](https://github.com/Wellington-Roveder/django-produtos-api) &nbsp; ![](https://img.shields.io/badge/EM_DESENVOLVIMENTO-555?style=flat-square)
+### 🛒 [Django Produtos API](https://github.com/Wellington-Roveder/django-produtos-api) &nbsp; ![](https://img.shields.io/badge/EM_PRODUÇÃO-00FF7F?style=flat-square&logoColor=black)
 
 API REST CRUD completa com Django REST Framework, testes unitários cobrindo todos os endpoints e boas práticas de segurança com variáveis de ambiente.
 
 `Python` `Django` `DRF` `PostgreSQL` `APITestCase`
+
+---
+
+### 📊 [SentinelLog](https://github.com/Wellington-Roveder/SentinelLog-game-price-monitor) &nbsp; ![](https://img.shields.io/badge/EM_DESENVOLVIMENTO-FFD700?style=flat-square)
+
+Pipeline ETL que monitora preços de jogos via API REST, persiste histórico em SQLite e detecta variações automaticamente. Dashboard interativo em Streamlit e alertas via N8N.
+
+`Python` `FastAPI` `SQLite` `N8N` `Streamlit` `ETL`
 
 ---
 
