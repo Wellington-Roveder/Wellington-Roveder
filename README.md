@@ -1,13 +1,9 @@
 <div align="center">
-
 ![banner](./banner.svg)
-
 <br/>
-
 [![Portfólio](https://img.shields.io/badge/→_VER_PORTFÓLIO-00FF7F?style=for-the-badge&logoColor=black)](https://wellington-roveder.github.io/portifolio-Wellington-Roveder/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-roveder-04637b37b/)
 [![GitHub](https://img.shields.io/badge/GITHUB-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wellington-Roveder)
-
 </div>
 
 ---
@@ -46,11 +42,11 @@ API REST CRUD completa com Django REST Framework, testes unitários cobrindo tod
 
 ---
 
-### 📊 [SentinelLog](https://github.com/Wellington-Roveder/SentinelLog-game-price-monitor) &nbsp; ![](https://img.shields.io/badge/EM_DESENVOLVIMENTO-FFD700?style=flat-square)
+### 📊 [SentinelLog](https://github.com/Wellington-Roveder/SentinelLog-game-price-monitor) &nbsp; ![](https://img.shields.io/badge/EM_PRODUÇÃO-00FF7F?style=flat-square&logoColor=black)
 
-Pipeline ETL que monitora preços de jogos via API REST, persiste histórico em SQLite e detecta variações automaticamente. Dashboard interativo em Streamlit e alertas via N8N.
+Pipeline ETL que monitora preços de jogos em tempo real via REST API, detecta variações automaticamente e dispara alertas de promoção via N8N. Histórico persistido em PostgreSQL com cache Redis e dashboard interativo em Streamlit.
 
-`Python` `FastAPI` `SQLite` `N8N` `Streamlit` `ETL`
+`Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `N8N` `Streamlit` `ETL`
 
 ---
 
