@@ -1,10 +1,18 @@
-<div align="center">
+<p align="center">
+
 ![banner](./banner.svg)
-<br/>
-[![Portfólio](https://img.shields.io/badge/→_VER_PORTFÓLIO-00FF7F?style=for-the-badge&logoColor=black)](https://wellington-roveder.github.io/portifolio-Wellington-Roveder/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-roveder-04637b37b/)
-[![GitHub](https://img.shields.io/badge/GITHUB-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wellington-Roveder)
-</div>
+
+<a href="https://wellington-roveder.github.io/portifolio-Wellington-Roveder/">
+  <img src="https://img.shields.io/badge/→_VER_PORTFÓLIO-00FF7F?style=for-the-badge&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/wellington-roveder-04637b37b/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Wellington-Roveder">
+  <img src="https://img.shields.io/badge/GITHUB-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
