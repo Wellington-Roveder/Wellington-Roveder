@@ -33,6 +33,17 @@
 
 ## 🚀 Projetos em Destaque
 
+### 📋 [FechaBot — Case Study Técnico](https://github.com/Wellington-Roveder/fechabot-case-study)
+
+Arquitetura, decisões de segurança e processo de construção documentados
+em detalhe — ADRs, revisões de segurança e demonstração em vídeo do
+produto real em produção. O raciocínio por trás do FechaBot SaaS, sem
+expor o código-fonte.
+
+`FastAPI` `Next.js` `PostgreSQL` `Redis` `Segurança` `Documentação Técnica`
+
+---
+
 ### 🤖 [FechaBot MVP](https://github.com/Wellington-Roveder/FechaBot-MVP) &nbsp; ![](https://img.shields.io/badge/EM_PRODUÇÃO-00FF7F?style=flat-square&logoColor=black)
 
 Automação de fechamento diário implantada para cliente real (**Pollo Loko, SJC**).
@@ -68,9 +79,12 @@ Pipeline de extração e formatação de dados da API pública do Rick & Morty c
 
 ### 🏗️ FechaBot SaaS &nbsp; ![](https://img.shields.io/badge/EM_DESENVOLVIMENTO-FFD700?style=flat-square)
 
-Versão escalável do FechaBot com envio automático via WhatsApp, suporte a múltiplas lojas e dashboard centralizado.
+Versão escalável do FechaBot com envio automático via WhatsApp, MFA,
+allowlist de sessão via Redis e suporte a múltiplos tenants. Código
+privado — arquitetura e decisões documentadas no
+[case study](https://github.com/Wellington-Roveder/fechabot-case-study).
 
-`Python` `Docker` `PostgreSQL` `Redis` `Evolution API`
+`Python` `FastAPI` `Docker` `PostgreSQL` `Redis` `Meta Cloud API`
 
 ---
 
