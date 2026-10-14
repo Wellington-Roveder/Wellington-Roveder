@@ -22,7 +22,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-F8FAFC?style=for-the-badge&logo=gmail&logoColor=A5745C" />
   <img src="https://img.shields.io/badge/Gmail-140E0C?style=for-the-badge&logo=gmail&logoColor=E09870" alt="Gmail" />
 </picture></a>
-  <a href="https://www.linkedin.com/in/wellingtonroveder" target="_blank"><picture>
+  <a href="https://www.linkedin.com/in/wellington-roveder/" target="_blank"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-140E0C?style=for-the-badge&logo=linkedin&logoColor=E09870" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-F8FAFC?style=for-the-badge&logo=linkedin&logoColor=A5745C" />
   <img src="https://img.shields.io/badge/LinkedIn-140E0C?style=for-the-badge&logo=linkedin&logoColor=E09870" alt="LinkedIn" />
