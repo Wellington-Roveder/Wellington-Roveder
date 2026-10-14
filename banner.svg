@@ -7,9 +7,6 @@
       .text-tag { font-family: 'Space Mono', 'Courier New', monospace; font-size: 14px; fill: #d48255; letter-spacing: 2px; font-weight: 700; }
       .text-name { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 48px; fill: #ffffff; font-weight: 700; }
       .text-sub { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 16px; fill: #c0c0c0; font-weight: 400; }
-      .timeline-num { font-family: 'Space Mono', 'Courier New', monospace; font-size: 11px; fill: #d48255; font-weight: 700; }
-      .timeline-title { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 18px; fill: #ffffff; font-weight: 700; letter-spacing: 1px; }
-      .timeline-desc { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 13px; fill: #a0a0a0; }
       .dot-grid { fill: #2a2522; }
     </style>
   </defs>
@@ -33,4 +30,6 @@
     <rect x="0" y="95" width="35" height="4" class="accent" rx="2" />
     <text x="0" y="130" class="text-tag">BACKEND  •  JAVA E PYTHON</text>
     <text x="0" y="195" class="text-name">Wellington Roveder</text>
-    <text x="0" y="240" class="text-sub">
+    <text x="0" y="240" class="text-sub">Python, FastAPI, PostgreSQL, Redis e Docker</text>
+  </g>
+</svg>
