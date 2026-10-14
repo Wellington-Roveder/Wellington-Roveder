@@ -273,3 +273,4 @@
   - [Django Produtos API](https://github.com/Wellington-Roveder/django-produtos-api): API REST com Django REST Framework e testes unitários nos endpoints. Projeto de estudo.
   - [Rick & Morty Pipeline](https://github.com/Wellington-Roveder/rick-morty-pipeline): pipeline em Python que extrai dados da API pública do Rick & Morty e gera um relatório em Excel. Projeto de estudo.
 </details>
+
