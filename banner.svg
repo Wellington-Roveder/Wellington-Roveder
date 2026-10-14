@@ -6,8 +6,12 @@
       .accent { fill: #d48255; stroke: #d48255; }
       .text-tag { font-family: 'Space Mono', 'Courier New', monospace; font-size: 14px; fill: #d48255; letter-spacing: 2px; font-weight: 700; }
       .text-name { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 48px; fill: #ffffff; font-weight: 700; }
-      .text-sub { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 16px; fill: #c0c0c0; font-weight: 400; }
+      .text-sub { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 16px; fill: #ececec; font-weight: 400; }
+      .timeline-num { font-family: 'Space Mono', 'Courier New', monospace; font-size: 11px; fill: #d48255; font-weight: 700; }
+      .timeline-title { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 18px; fill: #ffffff; font-weight: 700; letter-spacing: 1px; }
+      .timeline-desc { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 13px; fill: #b08460; }
       .dot-grid { fill: #2a2522; }
+      .divider { stroke: #2a2522; stroke-width: 1; }
     </style>
   </defs>
 
@@ -30,6 +34,28 @@
     <rect x="0" y="95" width="35" height="4" class="accent" rx="2" />
     <text x="0" y="130" class="text-tag">BACKEND  •  JAVA E PYTHON</text>
     <text x="0" y="195" class="text-name">Wellington Roveder</text>
-    <text x="0" y="240" class="text-sub">Python, FastAPI, PostgreSQL, Redis e Docker</text>
+    <text x="0" y="240" class="text-sub">Ciência da Computação  ·  São José dos Campos</text>
   </g>
+
+  <!-- Divider -->
+  <line x1="710" y1="75" x2="710" y2="330" class="divider" />
+
+  <!-- Timeline (Right Side) -->
+  <g>
+    <circle cx="810" cy="125" r="4.5" class="accent" />
+    <text x="832" y="115" class="timeline-num">01</text>
+    <text x="832" y="141" class="timeline-title">API</text>
+
+    <circle cx="810" cy="200" r="4.5" class="accent" />
+    <text x="832" y="190" class="timeline-num">02</text>
+    <text x="832" y="216" class="timeline-title">DOMÍNIO</text>
+
+    <circle cx="810" cy="277" r="4.5" class="accent" />
+    <text x="832" y="267" class="timeline-num">03</text>
+    <text x="832" y="293" class="timeline-title">DADOS</text>
+    <text x="832" y="316" class="timeline-desc">Arquitetura em camadas</text>
+  </g>
+
+  <!-- Bottom accent bar -->
+  <rect x="80" y="394" width="170" height="6" class="accent" />
 </svg>
