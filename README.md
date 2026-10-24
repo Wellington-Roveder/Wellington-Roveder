@@ -32,6 +32,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portf%C3%B3lio-F8FAFC?style=for-the-badge&logo=githubpages&logoColor=A5745C" />
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-140E0C?style=for-the-badge&logo=githubpages&logoColor=E09870" alt="Portfólio" />
 </picture></a>
+  <a href="https://www.wellingtonroveder.dev" target="_blank"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portf%C3%B3lio_interativo-140E0C?style=for-the-badge&logo=nextdotjs&logoColor=E09870" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portf%C3%B3lio_interativo-F8FAFC?style=for-the-badge&logo=nextdotjs&logoColor=A5745C" />
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio_interativo-140E0C?style=for-the-badge&logo=nextdotjs&logoColor=E09870" alt="Portfólio interativo" />
+</picture></a>
 </p>
 
 <sub>São José dos Campos, SP &nbsp;·&nbsp; Disponível das 8h às 18h: presencial em SJC, híbrido ou remoto</sub>
