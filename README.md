@@ -37,6 +37,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portf%C3%B3lio_interativo-F8FAFC?style=for-the-badge&logo=nextdotjs&logoColor=A5745C" />
   <img src="https://img.shields.io/badge/Portf%C3%B3lio_interativo-140E0C?style=for-the-badge&logo=nextdotjs&logoColor=E09870" alt="Portfólio interativo" />
 </picture></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/WellingtonDaniloRoveder-4131/B02AE92A072FD515?sharingId=A5585B6CBA90CF9" target="_blank"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub_Foundations-140E0C?style=for-the-badge&logo=github&logoColor=E09870" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub_Foundations-F8FAFC?style=for-the-badge&logo=github&logoColor=A5745C" />
+  <img src="https://img.shields.io/badge/GitHub_Foundations-140E0C?style=for-the-badge&logo=github&logoColor=E09870" alt="Certificação GitHub Foundations" />
+</picture></a>
 </p>
 
 <sub>São José dos Campos, SP &nbsp;·&nbsp; Disponível das 8h às 18h: presencial em SJC, híbrido ou remoto</sub>
@@ -278,4 +283,3 @@
   - [Django Produtos API](https://github.com/Wellington-Roveder/django-produtos-api): API REST com Django REST Framework e testes unitários nos endpoints. Projeto de estudo.
   - [Rick & Morty Pipeline](https://github.com/Wellington-Roveder/rick-morty-pipeline): pipeline em Python que extrai dados da API pública do Rick & Morty e gera um relatório em Excel. Projeto de estudo.
 </details>
-
