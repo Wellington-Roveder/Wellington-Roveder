@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Wellington-Roveder/Wellington-Roveder/main/banner.svg" alt="Wellington Roveder, backend com Java e Python" width="100%" />
+<img src="https://raw.githubusercontent.com/Wellington-Roveder/Wellington-Roveder/main/banner.svg" alt="Wellington Roveder, engenharia de IA e backend com Python" width="100%" />
 
 <h1>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=520&height=70&color=E09870&duration=3500&lines=Wellington+Roveder;Backend+com+Java+e+Python;Buscando+est%C3%A1gio" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=520&height=70&color=A5745C&duration=3500&lines=Wellington+Roveder;Backend+com+Java+e+Python;Buscando+est%C3%A1gio" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=520&height=70&color=E09870&duration=3500&lines=Wellington+Roveder;Backend+com+Java+e+Python;Buscando+est%C3%A1gio" alt="Wellington Roveder, backend com Java e Python, buscando estágio" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=620&height=70&color=E09870&duration=3500&lines=Wellington+Roveder;Engenharia+de+IA+e+backend+com+Python;Buscando+est%C3%A1gio" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=620&height=70&color=A5745C&duration=3500&lines=Wellington+Roveder;Engenharia+de+IA+e+backend+com+Python;Buscando+est%C3%A1gio" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=620&height=70&color=E09870&duration=3500&lines=Wellington+Roveder;Engenharia+de+IA+e+backend+com+Python;Buscando+est%C3%A1gio" alt="Wellington Roveder, engenharia de IA e backend com Python, buscando estágio" />
 </picture>
 </h1>
 
 <p>
-  Estudo Ciência da Computação e desenvolvo backend com Python e Java.<br />
-  Tenho um projeto em uso diário por um cliente real e estou aprofundando Java e arquitetura.<br />
-  Procuro um estágio em desenvolvimento backend.
+  Estudo Ciência da Computação e desenvolvo backend com Python, com foco em engenharia de IA.<br />
+  Construí um agente de reservas com LLM, embeddings e tool calling, e tenho um projeto em uso diário por um cliente real.<br />
+  Procuro um estágio em engenharia de IA ou desenvolvimento backend.
 </p>
 
 <p>
@@ -58,15 +58,55 @@
 <h2 align="center">Estudando agora</h2>
 
 <p align="center">
-  Java a fundo: coleções, generics, streams, JVM, concorrência, testes com JUnit, Maven e design patterns.<br />
-  Depois, arquitetura em camadas e Spring Boot.<br />
-  O que aprendo em Java vai sendo aplicado no <a href="https://github.com/Wellington-Roveder/OrderManagerMvc">OrderManager</a>.
+  Engenharia de IA: LLMs, embeddings e tool calling, com foco em agentes que operam sistemas reais.<br />
+  Em paralelo, aprofundo backend com Python: FastAPI, testes e boas práticas de arquitetura.<br />
+  O que aprendo vai sendo aplicado no <a href="https://github.com/Wellington-Roveder/ReservaBot">ReservaBot</a>.
 </p>
 
 <h2 align="center">Projetos em destaque</h2>
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Wellington-Roveder/ReservaBot">
+        <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wellington-Roveder&repo=ReservaBot&show_owner=false&description_lines_count=2&bg_color=140E0C&title_color=E09870&text_color=F0E4DC&icon_color=E09870&border_color=2C211C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wellington-Roveder&repo=ReservaBot&show_owner=false&description_lines_count=2&bg_color=F8FAFC&title_color=A5745C&text_color=334155&icon_color=A5745C&border_color=E2E8F0" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wellington-Roveder&repo=ReservaBot&show_owner=false&description_lines_count=2&bg_color=140E0C&title_color=E09870&text_color=F0E4DC&icon_color=E09870&border_color=2C211C" alt="Repositório ReservaBot" />
+</picture>
+      </a>
+      <p>Agente conversacional que cria, consulta e cancela reservas de restaurante por linguagem natural. Um roteador semântico local (embeddings) bloqueia mensagens fora do escopo antes de chamar o LLM, que opera as reservas via tool calling. Persistência em SQLite e testes com pytest. <a href="https://reservas-wellingtonroveder.streamlit.app/">Ver online</a></p>
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-140E0C?style=flat-square&logo=python&logoColor=E09870" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-F8FAFC?style=flat-square&logo=python&logoColor=A5745C" />
+  <img src="https://img.shields.io/badge/Python-140E0C?style=flat-square&logo=python&logoColor=E09870" alt="Python" />
+</picture>
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Streamlit-140E0C?style=flat-square&logo=streamlit&logoColor=E09870" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Streamlit-F8FAFC?style=flat-square&logo=streamlit&logoColor=A5745C" />
+  <img src="https://img.shields.io/badge/Streamlit-140E0C?style=flat-square&logo=streamlit&logoColor=E09870" alt="Streamlit" />
+</picture>
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQLite-140E0C?style=flat-square&logo=sqlite&logoColor=E09870" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SQLite-F8FAFC?style=flat-square&logo=sqlite&logoColor=A5745C" />
+  <img src="https://img.shields.io/badge/SQLite-140E0C?style=flat-square&logo=sqlite&logoColor=E09870" alt="SQLite" />
+</picture>
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM_Tool_Calling-140E0C?style=flat-square" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LLM_Tool_Calling-F8FAFC?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Tool_Calling-140E0C?style=flat-square" alt="LLM Tool Calling" />
+</picture>
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Embeddings-140E0C?style=flat-square" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Embeddings-F8FAFC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings-140E0C?style=flat-square" alt="Embeddings" />
+</picture>
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pytest-140E0C?style=flat-square&logo=pytest&logoColor=E09870" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Pytest-F8FAFC?style=flat-square&logo=pytest&logoColor=A5745C" />
+  <img src="https://img.shields.io/badge/Pytest-140E0C?style=flat-square&logo=pytest&logoColor=E09870" alt="Pytest" />
+</picture>
+    </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Wellington-Roveder/fechabot-case-study">
         <picture>
@@ -97,6 +137,8 @@
   <img src="https://img.shields.io/badge/Celery-140E0C?style=flat-square&logo=celery&logoColor=E09870" alt="Celery" />
 </picture>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Wellington-Roveder/audioguia-cultural-sjc">
         <picture>
@@ -127,8 +169,6 @@
   <img src="https://img.shields.io/badge/Pytest-140E0C?style=flat-square&logo=pytest&logoColor=E09870" alt="Pytest" />
 </picture>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Wellington-Roveder/FechaBot-MVP">
         <picture>
@@ -154,31 +194,6 @@
   <img src="https://img.shields.io/badge/PyInstaller-140E0C?style=flat-square" alt="PyInstaller" />
 </picture>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Wellington-Roveder/OrderManagerMvc">
-        <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wellington-Roveder&repo=OrderManagerMvc&show_owner=false&description_lines_count=2&bg_color=140E0C&title_color=E09870&text_color=F0E4DC&icon_color=E09870&border_color=2C211C" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Wellington-Roveder&repo=OrderManagerMvc&show_owner=false&description_lines_count=2&bg_color=F8FAFC&title_color=A5745C&text_color=334155&icon_color=A5745C&border_color=E2E8F0" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wellington-Roveder&repo=OrderManagerMvc&show_owner=false&description_lines_count=2&bg_color=140E0C&title_color=E09870&text_color=F0E4DC&icon_color=E09870&border_color=2C211C" alt="Repositório OrderManagerMvc" />
-</picture>
-      </a>
-      <p>Aplicação de console em Java com arquitetura MVC em camadas. É o repositório onde aplico meu roadmap de estudos e muda a cada etapa. Próximos passos: testes com JUnit, Maven e design patterns.</p>
-      <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-140E0C?style=flat-square&logo=openjdk&logoColor=E09870" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-F8FAFC?style=flat-square&logo=openjdk&logoColor=A5745C" />
-  <img src="https://img.shields.io/badge/Java-140E0C?style=flat-square&logo=openjdk&logoColor=E09870" alt="Java" />
-</picture>
-      <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/POO-140E0C?style=flat-square" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/POO-F8FAFC?style=flat-square" />
-  <img src="https://img.shields.io/badge/POO-140E0C?style=flat-square" alt="POO" />
-</picture>
-      <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MVC-140E0C?style=flat-square" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MVC-F8FAFC?style=flat-square" />
-  <img src="https://img.shields.io/badge/MVC-140E0C?style=flat-square" alt="MVC" />
-</picture>
-    </td>
   </tr>
 </table>
 
@@ -186,24 +201,19 @@
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-140E0C?style=flat-square&logo=openjdk&logoColor=E09870" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-F8FAFC?style=flat-square&logo=openjdk&logoColor=A5745C" />
-  <img src="https://img.shields.io/badge/Java-140E0C?style=flat-square&logo=openjdk&logoColor=E09870" alt="Java" />
-</picture>
-  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-140E0C?style=flat-square&logo=python&logoColor=E09870" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-F8FAFC?style=flat-square&logo=python&logoColor=A5745C" />
   <img src="https://img.shields.io/badge/Python-140E0C?style=flat-square&logo=python&logoColor=E09870" alt="Python" />
 </picture>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-140E0C?style=flat-square&logo=postgresql&logoColor=E09870" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-F8FAFC?style=flat-square&logo=postgresql&logoColor=A5745C" />
-  <img src="https://img.shields.io/badge/PostgreSQL-140E0C?style=flat-square&logo=postgresql&logoColor=E09870" alt="PostgreSQL" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM_Tool_Calling-140E0C?style=flat-square" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LLM_Tool_Calling-F8FAFC?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Tool_Calling-140E0C?style=flat-square" alt="LLM Tool Calling" />
 </picture>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-140E0C?style=flat-square&logo=git&logoColor=E09870" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-F8FAFC?style=flat-square&logo=git&logoColor=A5745C" />
-  <img src="https://img.shields.io/badge/Git-140E0C?style=flat-square&logo=git&logoColor=E09870" alt="Git" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Embeddings-140E0C?style=flat-square" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Embeddings-F8FAFC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings-140E0C?style=flat-square" alt="Embeddings" />
 </picture>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-140E0C?style=flat-square&logo=fastapi&logoColor=E09870" />
@@ -216,6 +226,11 @@
   <img src="https://img.shields.io/badge/Django-140E0C?style=flat-square&logo=django&logoColor=E09870" alt="Django" />
 </picture>
   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-140E0C?style=flat-square&logo=postgresql&logoColor=E09870" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-F8FAFC?style=flat-square&logo=postgresql&logoColor=A5745C" />
+  <img src="https://img.shields.io/badge/PostgreSQL-140E0C?style=flat-square&logo=postgresql&logoColor=E09870" alt="PostgreSQL" />
+</picture>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redis-140E0C?style=flat-square&logo=redis&logoColor=E09870" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Redis-F8FAFC?style=flat-square&logo=redis&logoColor=A5745C" />
   <img src="https://img.shields.io/badge/Redis-140E0C?style=flat-square&logo=redis&logoColor=E09870" alt="Redis" />
@@ -226,9 +241,19 @@
   <img src="https://img.shields.io/badge/Docker-140E0C?style=flat-square&logo=docker&logoColor=E09870" alt="Docker" />
 </picture>
   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-140E0C?style=flat-square&logo=git&logoColor=E09870" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-F8FAFC?style=flat-square&logo=git&logoColor=A5745C" />
+  <img src="https://img.shields.io/badge/Git-140E0C?style=flat-square&logo=git&logoColor=E09870" alt="Git" />
+</picture>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub_Actions-140E0C?style=flat-square&logo=githubactions&logoColor=E09870" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub_Actions-F8FAFC?style=flat-square&logo=githubactions&logoColor=A5745C" />
   <img src="https://img.shields.io/badge/GitHub_Actions-140E0C?style=flat-square&logo=githubactions&logoColor=E09870" alt="GitHub Actions" />
+</picture>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Streamlit-140E0C?style=flat-square&logo=streamlit&logoColor=E09870" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Streamlit-F8FAFC?style=flat-square&logo=streamlit&logoColor=A5745C" />
+  <img src="https://img.shields.io/badge/Streamlit-140E0C?style=flat-square&logo=streamlit&logoColor=E09870" alt="Streamlit" />
 </picture>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-140E0C?style=flat-square&logo=nextdotjs&logoColor=E09870" />
@@ -239,6 +264,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-140E0C?style=flat-square&logo=typescript&logoColor=E09870" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-F8FAFC?style=flat-square&logo=typescript&logoColor=A5745C" />
   <img src="https://img.shields.io/badge/TypeScript-140E0C?style=flat-square&logo=typescript&logoColor=E09870" alt="TypeScript" />
+</picture>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-140E0C?style=flat-square&logo=openjdk&logoColor=E09870" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-F8FAFC?style=flat-square&logo=openjdk&logoColor=A5745C" />
+  <img src="https://img.shields.io/badge/Java-140E0C?style=flat-square&logo=openjdk&logoColor=E09870" alt="Java" />
 </picture>
 </p>
 <p align="center"><sub>Também trabalho com SQL, Pandas, Celery e Pytest.</sub></p>
