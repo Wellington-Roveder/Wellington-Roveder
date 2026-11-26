@@ -4,10 +4,19 @@
 
 <h1>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=620&height=70&color=E09870&duration=3500&lines=Wellington+Roveder;Engenharia+de+IA+e+backend+com+Python;Buscando+est%C3%A1gio" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=620&height=70&color=A5745C&duration=3500&lines=Wellington+Roveder;Engenharia+de+IA+e+backend+com+Python;Buscando+est%C3%A1gio" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=620&height=70&color=E09870&duration=3500&lines=Wellington+Roveder;Engenharia+de+IA+e+backend+com+Python;Buscando+est%C3%A1gio" alt="Wellington Roveder, engenharia de IA e backend com Python, buscando estágio" />
-</picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=850&height=100&color=00D9FF&duration=3500&pause=1000&lines=Wellington+Roveder;AI+Engineer+J%C3%BAnior;Python+%7C+LLMs+%7C+Embeddings+%7C+Tool+Calling;Agentes+de+IA+em+produ%C3%A7%C3%A3o;AI+Engineer+for+Developers+%7C+DataCamp"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=850&height=100&color=0077AA&duration=3500&pause=1000&lines=Wellington+Roveder;AI+Engineer+J%C3%BAnior;Python+%7C+LLMs+%7C+Embeddings+%7C+Tool+Calling;Agentes+de+IA+em+produ%C3%A7%C3%A3o;AI+Engineer+for+Developers+%7C+DataCamp"
+    />
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=850&height=100&color=00D9FF&duration=3500&pause=1000&lines=Wellington+Roveder;AI+Engineer+J%C3%BAnior;Python+%7C+LLMs+%7C+Embeddings+%7C+Tool+Calling;Agentes+de+IA+em+produ%C3%A7%C3%A3o;AI+Engineer+for+Developers+%7C+DataCamp"
+      alt="Wellington Roveder | AI Engineer Júnior | Python, LLMs, Embeddings, Tool Calling, Agentes de IA em produção | AI Engineer for Developers DataCamp"
+    />
+  </picture>
 </h1>
 
 <p>
