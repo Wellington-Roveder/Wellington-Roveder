@@ -1,27 +1,28 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Wellington-Roveder/Wellington-Roveder/main/banner.svg" alt="Wellington Roveder, engenharia de IA e backend com Python" width="100%" />
+<img src="https://raw.githubusercontent.com/Wellington-Roveder/Wellington-Roveder/main/banner.svg" alt="Wellington Roveder, engenharia de IA com Python. Trajetória: automação, backend e engenharia de IA" width="100%" />
 
 <h1>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=850&height=100&color=00D9FF&duration=3500&pause=1000&lines=Wellington+Roveder;AI+Engineer+J%C3%BAnior;Python+%7C+LLMs+%7C+Embeddings+%7C+Tool+Calling;Agentes+de+IA+em+produ%C3%A7%C3%A3o;AI+Engineer+for+Developers+%7C+DataCamp"
+      srcset="https://readme-typing-svg.demolab.com/?font=Inter&size=28&center=true&vCenter=true&width=850&height=100&color=E09870&duration=3500&pause=1000&lines=Wellington+Roveder;Engenharia+de+IA+com+Python;LLMs+%7C+Embeddings+%7C+Tool+Calling;Avalia%C3%A7%C3%A3o+de+agentes+com+m%C3%A9tricas;Cursando+AI+Engineer+for+Developers+na+DataCamp"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=850&height=100&color=0077AA&duration=3500&pause=1000&lines=Wellington+Roveder;AI+Engineer+J%C3%BAnior;Python+%7C+LLMs+%7C+Embeddings+%7C+Tool+Calling;Agentes+de+IA+em+produ%C3%A7%C3%A3o;AI+Engineer+for+Developers+%7C+DataCamp"
+      srcset="https://readme-typing-svg.demolab.com/?font=Inter&size=28&center=true&vCenter=true&width=850&height=100&color=A5745C&duration=3500&pause=1000&lines=Wellington+Roveder;Engenharia+de+IA+com+Python;LLMs+%7C+Embeddings+%7C+Tool+Calling;Avalia%C3%A7%C3%A3o+de+agentes+com+m%C3%A9tricas;Cursando+AI+Engineer+for+Developers+na+DataCamp"
     />
     <img
-      src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=850&height=100&color=00D9FF&duration=3500&pause=1000&lines=Wellington+Roveder;AI+Engineer+J%C3%BAnior;Python+%7C+LLMs+%7C+Embeddings+%7C+Tool+Calling;Agentes+de+IA+em+produ%C3%A7%C3%A3o;AI+Engineer+for+Developers+%7C+DataCamp"
-      alt="Wellington Roveder | AI Engineer Júnior | Python, LLMs, Embeddings, Tool Calling, Agentes de IA em produção | AI Engineer for Developers DataCamp"
+      src="https://readme-typing-svg.demolab.com/?font=Inter&size=28&center=true&vCenter=true&width=850&height=100&color=E09870&duration=3500&pause=1000&lines=Wellington+Roveder;Engenharia+de+IA+com+Python;LLMs+%7C+Embeddings+%7C+Tool+Calling;Avalia%C3%A7%C3%A3o+de+agentes+com+m%C3%A9tricas;Cursando+AI+Engineer+for+Developers+na+DataCamp"
+      alt="Wellington Roveder | Engenharia de IA com Python | LLMs, embeddings, tool calling | Avaliação de agentes com métricas | Cursando AI Engineer for Developers na DataCamp"
     />
   </picture>
 </h1>
 
 <p>
-  Estudo Ciência da Computação e desenvolvo backend com Python, com foco em engenharia de IA.<br />
-  Construí um agente de reservas com LLM, embeddings e tool calling, e tenho um projeto em uso diário por um cliente real.<br />
+  Estudo Ciência da Computação e estou direcionando minha carreira para a engenharia de IA, com Python.<br />
+  Comecei automatizando o fechamento de caixa de um restaurante, hoje em uso diário, avancei para o backend com FastAPI e agora construo e avalio um agente com LLM, embeddings e tool calling.<br />
+  Também sou gerente de plantão desde 2020, com equipes de 20 a 40 pessoas.<br />
   Procuro um estágio em engenharia de IA ou desenvolvimento backend.
 </p>
 
@@ -67,8 +68,9 @@
 <h2 align="center">Estudando agora</h2>
 
 <p align="center">
-  Engenharia de IA: LLMs, embeddings e tool calling, com foco em agentes que operam sistemas reais.<br />
-  Em paralelo, aprofundo backend com Python: FastAPI, testes e boas práticas de arquitetura.<br />
+  Engenharia de IA, no curso AI Engineer for Developers da DataCamp: LLMs, embeddings, tool calling e avaliação de agentes.<br />
+  Quero levar meus projetos também para Machine Learning, e o próximo passo planejado é um projeto com RAG.<br />
+  O backend com Python (FastAPI, testes e arquitetura) segue como base.<br />
   O que aprendo vai sendo aplicado no <a href="https://github.com/Wellington-Roveder/ReservaBot">ReservaBot</a>.
 </p>
 
@@ -84,7 +86,7 @@
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wellington-Roveder&repo=ReservaBot&show_owner=false&description_lines_count=2&bg_color=140E0C&title_color=E09870&text_color=F0E4DC&icon_color=E09870&border_color=2C211C" alt="Repositório ReservaBot" />
 </picture>
       </a>
-      <p>Agente conversacional que cria, consulta e cancela reservas de restaurante por linguagem natural. Um roteador semântico local (embeddings) bloqueia mensagens fora do escopo antes de chamar o LLM, que opera as reservas via tool calling. Persistência em SQLite e testes com pytest. <a href="https://reservas-wellingtonroveder.streamlit.app/">Ver online</a></p>
+      <p>Agente conversacional que cria, consulta e cancela reservas de restaurante por linguagem natural. Um roteador semântico local (embeddings) filtra mensagens fora do escopo antes de chamar o LLM, que opera as reservas via tool calling. Registra tokens, custo estimado e tempo das ferramentas. SQLite, pytest e CI. <a href="https://reservas-wellingtonroveder.streamlit.app/">Ver online</a></p>
       <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-140E0C?style=flat-square&logo=python&logoColor=E09870" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-F8FAFC?style=flat-square&logo=python&logoColor=A5745C" />
@@ -124,7 +126,7 @@
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wellington-Roveder&repo=fechabot-case-study&show_owner=false&description_lines_count=2&bg_color=140E0C&title_color=E09870&text_color=F0E4DC&icon_color=E09870&border_color=2C211C" alt="Repositório fechabot-case-study" />
 </picture>
       </a>
-      <p>Arquitetura, decisões técnicas (ADRs) e revisões de segurança do FechaBot SaaS, multi-tenant e em desenvolvimento. O código é privado, a documentação é pública.</p>
+      <p>Arquitetura, decisões técnicas (ADRs) e revisões de segurança do FechaBot SaaS, multi-tenant e em desenvolvimento, com um assistente (Claude API) para consultar os dados em linguagem natural. O código é privado, a documentação é pública.</p>
       <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-140E0C?style=flat-square&logo=fastapi&logoColor=E09870" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FastAPI-F8FAFC?style=flat-square&logo=fastapi&logoColor=A5745C" />
@@ -156,7 +158,7 @@
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wellington-Roveder&repo=audioguia-cultural-sjc&show_owner=false&description_lines_count=2&bg_color=140E0C&title_color=E09870&text_color=F0E4DC&icon_color=E09870&border_color=2C211C" alt="Repositório audioguia-cultural-sjc" />
 </picture>
       </a>
-      <p>Plataforma web para exposições culturais, com QR Code por obra, texto, áudio, audiodescrição e Libras. Nasceu como atividade extensionista da faculdade. MVP em produção, com 126 testes automatizados. <a href="https://audioguia-cultural-sjc.vercel.app">Ver online</a></p>
+      <p>Plataforma web para exposições culturais, com QR Code por obra, texto, áudio, audiodescrição e Libras. Nasceu como atividade extensionista da faculdade. MVP publicado para demonstração técnica, com 126 testes automatizados. <a href="https://audioguia-cultural-sjc.vercel.app/obra/fb5232ca217d4d99afef967c0d204638">Ver exemplo</a></p>
       <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-140E0C?style=flat-square&logo=fastapi&logoColor=E09870" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FastAPI-F8FAFC?style=flat-square&logo=fastapi&logoColor=A5745C" />
@@ -206,6 +208,25 @@
   </tr>
 </table>
 
+<h2 align="center">Avaliações do ReservaBot</h2>
+
+<table align="center">
+  <tr><th align="left">O que foi medido</th><th align="left">Resultado</th></tr>
+  <tr>
+    <td><a href="https://github.com/Wellington-Roveder/ReservaBot/blob/main/docs/adr/0003-avaliacao-ponta-a-ponta-agente.md">Agente ponta a ponta</a><br /><sub>16 cenários, com chamadas reais ao LLM</sub></td>
+    <td>Ferramenta correta em 15/16, argumentos em 11/12, reservas concluídas em 5/6</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Wellington-Roveder/ReservaBot/blob/main/docs/adr/0001-avaliacao-do-roteador-semantico.md">Roteador semântico</a><br /><sub>80 mensagens rotuladas</sub></td>
+    <td>86% de acerto na decisão de escopo e 67,5% na de intenção</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Wellington-Roveder/ReservaBot/blob/main/docs/adr/0005-avaliacao-classificadores-nlu.md">Classificadores de intenção</a><br /><sub>teste de 44 mensagens</sub></td>
+    <td>F1-macro: regressão logística 0,87, roteador atual 0,81, BERTimbau com fine-tuning 0,80.<br />Mantive o roteador atual na aplicação</td>
+  </tr>
+</table>
+<p align="center"><sub>Conjuntos pequenos: os números orientam decisões do projeto e não generalizam.</sub></p>
+
 <h2 align="center">Linguagens e ferramentas</h2>
 
 <p align="center">
@@ -228,11 +249,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-140E0C?style=flat-square&logo=fastapi&logoColor=E09870" />
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FastAPI-F8FAFC?style=flat-square&logo=fastapi&logoColor=A5745C" />
   <img src="https://img.shields.io/badge/FastAPI-140E0C?style=flat-square&logo=fastapi&logoColor=E09870" alt="FastAPI" />
-</picture>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Django-140E0C?style=flat-square&logo=django&logoColor=E09870" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Django-F8FAFC?style=flat-square&logo=django&logoColor=A5745C" />
-  <img src="https://img.shields.io/badge/Django-140E0C?style=flat-square&logo=django&logoColor=E09870" alt="Django" />
 </picture>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-140E0C?style=flat-square&logo=postgresql&logoColor=E09870" />
@@ -274,13 +290,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-F8FAFC?style=flat-square&logo=typescript&logoColor=A5745C" />
   <img src="https://img.shields.io/badge/TypeScript-140E0C?style=flat-square&logo=typescript&logoColor=E09870" alt="TypeScript" />
 </picture>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-140E0C?style=flat-square&logo=openjdk&logoColor=E09870" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-F8FAFC?style=flat-square&logo=openjdk&logoColor=A5745C" />
-  <img src="https://img.shields.io/badge/Java-140E0C?style=flat-square&logo=openjdk&logoColor=E09870" alt="Java" />
-</picture>
 </p>
-<p align="center"><sub>Também trabalho com SQL, Pandas, Celery e Pytest.</sub></p>
+<p align="center"><sub>Também trabalho com SQL, Pandas, Celery e Pytest. Em experimentos: scikit-learn, Transformers e Hugging Face.</sub></p>
 
 <h2 align="center">Métricas</h2>
 
@@ -298,9 +309,9 @@
 </p>
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Wellington-Roveder&locale=pt_BR&background=140E0C&ring=E09870&fire=E09870&currStreakNum=FBF6F2&sideNums=FBF6F2&currStreakLabel=E09870&sideLabels=F0E4DC&dates=B5A093&border=2C211C" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Wellington-Roveder&locale=pt_BR&background=F8FAFC&ring=A5745C&fire=A5745C&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=A5745C&sideLabels=334155&dates=64748B&border=E2E8F0" />
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wellington-Roveder&locale=pt_BR&background=140E0C&ring=E09870&fire=E09870&currStreakNum=FBF6F2&sideNums=FBF6F2&currStreakLabel=E09870&sideLabels=F0E4DC&dates=B5A093&border=2C211C" alt="Sequência de contribuições" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Wellington-Roveder&locale=pt_BR&background=140E0C&ring=E09870&fire=E09870&currStreakNum=FBF6F2&sideNums=FBF6F2&currStreakLabel=E09870&sideLabels=F0E4DC&dates=B5A093&border=2C211C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Wellington-Roveder&locale=pt_BR&background=F8FAFC&ring=A5745C&fire=A5745C&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=A5745C&sideLabels=334155&dates=64748B&border=E2E8F0" />
+  <img width="98%" src="https://streak-stats.demolab.com/?user=Wellington-Roveder&locale=pt_BR&background=140E0C&ring=E09870&fire=E09870&currStreakNum=FBF6F2&sideNums=FBF6F2&currStreakLabel=E09870&sideLabels=F0E4DC&dates=B5A093&border=2C211C" alt="Sequência de contribuições" />
 </picture>
 </p>
 

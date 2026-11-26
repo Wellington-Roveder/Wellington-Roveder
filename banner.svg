@@ -12,6 +12,8 @@
       .timeline-desc { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 13px; fill: #b08460; }
       .dot-grid { fill: #2a2522; }
       .divider { stroke: #2a2522; stroke-width: 1; }
+      .path { stroke: #d48255; stroke-width: 1.5; opacity: 0.45; }
+      .halo { fill: none; stroke: #d48255; stroke-width: 1.5; }
     </style>
   </defs>
 
@@ -20,19 +22,19 @@
 
   <!-- Background Grid Dots (Right Side) -->
   <g class="dot-grid">
-    <circle cx="750" cy="80" r="1.5"/><circle cx="810" cy="80" r="1.5"/><circle cx="870" cy="80" r="1.5"/><circle cx="930" cy="80" r="1.5"/><circle cx="990" cy="80" r="1.5"/><circle cx="1050" cy="80" r="1.5"/><circle cx="1110" cy="80" r="1.5"/>
-    <circle cx="750" cy="120" r="1.5"/><circle cx="810" cy="120" r="1.5"/><circle cx="870" cy="120" r="1.5"/><circle cx="930" cy="120" r="1.5"/><circle cx="990" cy="120" r="1.5"/><circle cx="1050" cy="120" r="1.5"/><circle cx="1110" cy="120" r="1.5"/>
-    <circle cx="750" cy="160" r="1.5"/><circle cx="810" cy="160" r="1.5"/><circle cx="870" cy="160" r="1.5"/><circle cx="930" cy="160" r="1.5"/><circle cx="990" cy="160" r="1.5"/><circle cx="1050" cy="160" r="1.5"/><circle cx="1110" cy="160" r="1.5"/>
-    <circle cx="750" cy="200" r="1.5"/><circle cx="810" cy="200" r="1.5"/><circle cx="870" cy="200" r="1.5"/><circle cx="930" cy="200" r="1.5"/><circle cx="990" cy="200" r="1.5"/><circle cx="1050" cy="200" r="1.5"/><circle cx="1110" cy="200" r="1.5"/>
-    <circle cx="750" cy="240" r="1.5"/><circle cx="810" cy="240" r="1.5"/><circle cx="870" cy="240" r="1.5"/><circle cx="930" cy="240" r="1.5"/><circle cx="990" cy="240" r="1.5"/><circle cx="1050" cy="240" r="1.5"/><circle cx="1110" cy="240" r="1.5"/>
-    <circle cx="750" cy="280" r="1.5"/><circle cx="810" cy="280" r="1.5"/><circle cx="870" cy="280" r="1.5"/><circle cx="930" cy="280" r="1.5"/><circle cx="990" cy="280" r="1.5"/><circle cx="1050" cy="280" r="1.5"/><circle cx="1110" cy="280" r="1.5"/>
-    <circle cx="750" cy="320" r="1.5"/><circle cx="810" cy="320" r="1.5"/><circle cx="870" cy="320" r="1.5"/><circle cx="930" cy="320" r="1.5"/><circle cx="990" cy="320" r="1.5"/><circle cx="1050" cy="320" r="1.5"/><circle cx="1110" cy="320" r="1.5"/>
+    <circle cx="750" cy="80" r="1.5"/><circle cx="1110" cy="80" r="1.5"/>
+    <circle cx="750" cy="120" r="1.5"/><circle cx="1110" cy="120" r="1.5"/>
+    <circle cx="750" cy="160" r="1.5"/><circle cx="1110" cy="160" r="1.5"/>
+    <circle cx="750" cy="200" r="1.5"/><circle cx="1110" cy="200" r="1.5"/>
+    <circle cx="750" cy="240" r="1.5"/><circle cx="1110" cy="240" r="1.5"/>
+    <circle cx="750" cy="280" r="1.5"/><circle cx="1110" cy="280" r="1.5"/>
+    <circle cx="750" cy="320" r="1.5"/><circle cx="1110" cy="320" r="1.5"/>
   </g>
 
   <!-- Left Content -->
   <g transform="translate(80, 0)">
     <rect x="0" y="95" width="35" height="4" class="accent" rx="2" />
-    <text x="0" y="130" class="text-tag">BACKEND  •  JAVA E PYTHON</text>
+    <text x="0" y="130" class="text-tag">ENGENHARIA DE IA  •  PYTHON</text>
     <text x="0" y="195" class="text-name">Wellington Roveder</text>
     <text x="0" y="240" class="text-sub">Ciência da Computação  ·  São José dos Campos</text>
   </g>
@@ -42,18 +44,22 @@
 
   <!-- Timeline (Right Side) -->
   <g>
-    <circle cx="810" cy="125" r="4.5" class="accent" />
-    <text x="832" y="115" class="timeline-num">01</text>
-    <text x="832" y="141" class="timeline-title">API</text>
+    <line x1="810" y1="108" x2="810" y2="278" class="path" />
+    <circle cx="810" cy="108" r="4.5" class="accent" />
+    <text x="838" y="96" class="timeline-num">01</text>
+    <text x="838" y="116" class="timeline-title">AUTOMAÇÃO</text>
+    <text x="838" y="138" class="timeline-desc">Fechamento de caixa em uso diário</text>
 
-    <circle cx="810" cy="200" r="4.5" class="accent" />
-    <text x="832" y="190" class="timeline-num">02</text>
-    <text x="832" y="216" class="timeline-title">DOMÍNIO</text>
+    <circle cx="810" cy="193" r="4.5" class="accent" />
+    <text x="838" y="181" class="timeline-num">02</text>
+    <text x="838" y="201" class="timeline-title">BACKEND</text>
+    <text x="838" y="223" class="timeline-desc">FastAPI · PostgreSQL</text>
 
-    <circle cx="810" cy="277" r="4.5" class="accent" />
-    <text x="832" y="267" class="timeline-num">03</text>
-    <text x="832" y="293" class="timeline-title">DADOS</text>
-    <text x="832" y="316" class="timeline-desc">Arquitetura em camadas</text>
+    <circle cx="810" cy="278" r="11" class="halo" />
+    <circle cx="810" cy="278" r="4.5" class="accent" />
+    <text x="838" y="266" class="timeline-num">03</text>
+    <text x="838" y="286" class="timeline-title">ENGENHARIA DE IA</text>
+    <text x="838" y="308" class="timeline-desc">LLMs · Embeddings · Tool calling</text>
   </g>
 
   <!-- Bottom accent bar -->
